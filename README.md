@@ -13,7 +13,8 @@
 #### USDA (Abbreviated) SR 28 Subset Spreadsheet (CSV):
   - SR 28 Datasheet obtained from USDA website *08/11/2022
 #### USDA CB EDA (IPYNB):
-  - Notebook Containing Exploratory Data Analysis *10/26/2022(ongoing)
+  - Notebook Containing Exploratory Data Analysis *10/26/2022 (ongoing)
+#### MIT License
 
 ## Reference Links:
 - <a href='https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-28-0'>USDA Files</a>
