@@ -3,6 +3,7 @@
 - <b>Language</b>: Python
 - <b>License</b>: MIT
 - <b>Filetype(s)</b>: Juptyer NoteBook (Google Colab), PDF, & .CSV
+- <a href='https://colab.research.google.com/drive/1eiptwkcoIOb99L7b3hqOePzDekY3as2b?usp=sharing'> Google Colab View </a>
 ---
 ### Contributor(s):
 - Chris Burrows (<i> Bloomtech Data Scientist Student)
